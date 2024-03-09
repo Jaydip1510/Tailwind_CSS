@@ -162,10 +162,10 @@ export default function ContectSection() {
             </Switch.Label>
           </Switch.Group>
         </div>
-        <div className="mt-10">
+        <div className="mt-10  bg-indigo-600 ">
           <button
             type="submit"
-            className="block w-full rounded-md bg-indigo-600 px-3.5 py-2.5 text-center text-sm font-semibold  shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+            className=" text-white block w-full rounded-mdpx-3.5 py-2.5 text-center text-sm font-semibold  shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
           >
             Let's talk
           </button>
